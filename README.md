@@ -17,7 +17,8 @@ A Python program that implements a mobile app to help buy and sell retro softwar
 
 ### Update Log
 Version | Description:
-0.0.1 | Project initialisation, defining a scope
+
+- 0.0.1 | Project initialisation, defining a scope
 
 ## Credits
 - https://www.youtube.com/results?search_query=python+kivy+tutorial
