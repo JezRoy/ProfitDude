@@ -3,6 +3,7 @@ A Python program that implements a mobile app to help buy and sell retro softwar
 
 ### Features
 - Using `Kivy` to create a mobile app.
+- Find local car boot sales and yard sales around the information.
 - Loads images from the phone camera.
 - Uses ML/AI to recognise the name, type, developer team, year and console of the product in the image.
 - Web scrapes eBay, Amazon, Gumtree and other selling-commerce platforms to find the price.

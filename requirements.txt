@@ -1,0 +1,1 @@
+pip install kivy requests beautifulsoup4 numpy pandas opencv-python
