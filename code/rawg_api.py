@@ -1,7 +1,7 @@
 import sys
 import requests
 
-apiKey = "0d012f03559348598babf5347ec26b96"
+apiKey = "" # Needs to be inputted
 urlBase = f"https://api.rawg.io/api/"
 
 def searchGame(name):
