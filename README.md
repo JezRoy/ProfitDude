@@ -1,6 +1,8 @@
 # ProfitDude
 A Python program that implements a mobile app to help buy and sell retro software.
 
+### Features
+
 
 ## Credits
 - https://www.youtube.com/results?search_query=python+kivy+tutorial
