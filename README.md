@@ -24,7 +24,5 @@ Version | Description:
 - https://www.youtube.com/results?search_query=python+kivy+tutorial
 - https://www.youtube.com/watch?v=pAnBDKl7uuo&t=8s
 - https://rawg.io/apidocs
-- https://universe.roboflow.com/zach-johnson-hnefg/videogamespines/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
-- https://forums.thegamesdb.net/viewforum.php?f=10 (Not yet)
-- https://api-docs.igdb.com/#getting-started (Not yet)
 
+>! API Key REMOVE LATER 0d012f03559348598babf5347ec26b96
