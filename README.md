@@ -24,5 +24,3 @@ Version | Description:
 - https://www.youtube.com/results?search_query=python+kivy+tutorial
 - https://www.youtube.com/watch?v=pAnBDKl7uuo&t=8s
 - https://rawg.io/apidocs
-
->! API Key REMOVE LATER 0d012f03559348598babf5347ec26b96
